@@ -43,21 +43,21 @@ Finances and Credit, Organization of Banking Operations
 #### ENGLISH - PRE Intermediate
 
 #### COURSES:
-1) JD Edwards Foundation
-2) Production planning based on MRPII. Group of companies “Voronov and Maximov”.
+- JD Edwards Foundation
+- Production planning based on MRPII. Group of companies “Voronov and Maximov”.
 Moscow.
-3) General course in production modules of the Oracle system JD Edwards E1. Robertson
+- General course in production modules of the Oracle system JD Edwards E1. Robertson
 & Bums Corporation.
-4) Advanced course in subsystem “Preventive maintenance”. Robertson & Bums
+- Advanced course in subsystem “Preventive maintenance”. Robertson & Bums
 Corporation.
-5) Electronic Workflow.
-6) Seminar: Purchasing Logistics. Stock Control.
-7) Budgeting System Cognos EP. Robertson & Blums Corporation
-8) Data Repository “Contour Corporation”. “Zirvan” Ltd. Moscow.
-9) Building analytical OLAP reports Contour BI. “Zirvan” Ltd. Moscow.
-10) “Logistics”, Stock Control”, “Control of Warehouse Logistics”. Non-State Educational
+- Electronic Workflow.
+- Seminar: Purchasing Logistics. Stock Control.
+- Budgeting System Cognos EP. Robertson & Blums Corporation
+- Data Repository “Contour Corporation”. “Zirvan” Ltd. Moscow.
+- Building analytical OLAP reports Contour BI. “Zirvan” Ltd. Moscow.
+- “Logistics”, Stock Control”, “Control of Warehouse Logistics”. Non-State Educational
 Institution “Center of Professional training” Carrier Moscow
-11) Seminar “ISO 9001:2008 international standard requirements and its application for the
+- Seminar “ISO 9001:2008 international standard requirements and its application for the
 effective creation of Quality Management System” – Kazakhstan, Almaty, March 4-5, 2010 –
 Valikhanova T. QMS Lead Auditor IRCA № 1184712.
-12) International Business Academy, 1 course of the program “MBA Corporate Manager”
+- International Business Academy, 1 course of the program “MBA Corporate Manager”
