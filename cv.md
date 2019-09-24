@@ -14,7 +14,8 @@ System Analyst with over 5 years of experience.
 
 ## Skills:
 
-- Production planning - Purchasing planning 
+- Production planning 
+- Purchasing planning 
 - Automation of management reports
 - Olap (online analytical processing) 
 - Assigning tasks to programmers 
@@ -23,24 +24,30 @@ System Analyst with over 5 years of experience.
 - SQL, PostgreSQL 
 - MS Access, Excel, VBA 
 - HTML5, CSS3
-- MRPII
 - Linux
 
 ## PROFESSIONAL EXPERIENCE:
 
-- [Luxoft](http://luxoft.com), Omsk, Russia: System Analyst 
+- 06.2016-10.2017 [Luxoft](http://luxoft.com/), Omsk, Russia: System Analyst 
 
-- [Eurasion Group](http://erg.kz), Astana, Kazakhstan : Analyst
+- 12.2014-06.2016 [Eurasion Group](http://erg.kz/), Astana, Kazakhstan : Analyst
 
-- [Bapy Minig](http://bapyminig.kz), Almaty, Kazakhstan: CIO
+- 02.2013-11.2014 [Bapy Minig](http://bapymining.kz/), Almaty, Kazakhstan: Head of the Information Technologies Service 
 
-- [Kazzinc](http://www.kazzinc.kz), Ust-Kamenogorsk, Kazakhstan: System Analyst
+- 07.2011-02.2013 [Bapy Minig](http://bapymining.kz/), Almaty, Kazakhstan: System Analyst
+
+- 08.2008-10.2010 [Mining Bureau](http://gornoeburo.kz/), Almaty, Kazakhstan: System Analyst
+
+- 04.2008-08.2008 [Alina](http://www.alina.kz/), Almaty, Kazakhstan: Specialist of the Group for Development of Corporate Information System
+
+- 05.2005-04.2008 [Kazzinc](http://www.kazzinc.com/), Ust-Kamenogorsk, Kazakhstan: System Analyst
 
 #### EDUCATION & QUALIFICATIONS:
-> Higher - Eastern Kazakhstan State University after S. Amanzholov, UstKamenogorsk
+- Higher - Eastern Kazakhstan State University after S. Amanzholov, UstKamenogorsk
 Finances and Credit, Organization of Banking Operations
 
-#### ENGLISH - PRE Intermediate
+#### ENGLISH:
+- PRE Intermediate
 
 #### COURSES:
 - JD Edwards Foundation
