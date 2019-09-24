@@ -12,10 +12,9 @@
 
 System Analyst with over 5 years of experience. 
 
-## Skills and Experience:
+## Skills:
 
-- Production planning 
-- Purchasing planning 
+- Production planning - Purchasing planning 
 - Automation of management reports
 - Olap (online analytical processing) 
 - Assigning tasks to programmers 
@@ -29,22 +28,17 @@ System Analyst with over 5 years of experience.
 
 ## PROFESSIONAL EXPERIENCE:
 
-> Luxoft (luxoft.com), Omsk, Russia: System Analyst 
+> [Luxoft](http://luxoft.com), Omsk, Russia: System Analyst 
 
-> Eurasion Group (erg.kz) : Analyst
+> [Eurasion Group](http://erg.kz) : Analyst
 
-> Bapy Minig (bapyminig.kz): CIO
+> [Bapy Minig](http://bapyminig.kz): CIO
 
-> Kazzinc (kazzinc.kz): System Analyst
-
-#### Responsibilities:
-
-##### Technologies: .Net, MS sql.
-
-
-##### Tools: TFS, Git, C#, Webdriver, NUnit, JavaScript/Typescript.
+> [Kazzinc](http://www.kazzinc.kz): System Analyst
 
 #### EDUCATION & QUALIFICATIONS:
+> Higher - Eastern Kazakhstan State University after S. Amanzholov, UstKamenogorsk
+Finances and Credit, Organization of Banking Operations
 
 #### ENGLISH - PRE Intermediate
 
