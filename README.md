@@ -28,13 +28,13 @@ System Analyst with over 5 years of experience.
 
 ## PROFESSIONAL EXPERIENCE:
 
-> [Luxoft](http://luxoft.com), Omsk, Russia: System Analyst 
+- [Luxoft](http://luxoft.com), Omsk, Russia: System Analyst 
 
-> [Eurasion Group](http://erg.kz) : Analyst
+- [Eurasion Group](http://erg.kz), Astana, Kazakhstan : Analyst
 
-> [Bapy Minig](http://bapyminig.kz): CIO
+- [Bapy Minig](http://bapyminig.kz), Almaty, Kazakhstan: CIO
 
-> [Kazzinc](http://www.kazzinc.kz): System Analyst
+- [Kazzinc](http://www.kazzinc.kz), Ust-Kamenogorsk, Kazakhstan: System Analyst
 
 #### EDUCATION & QUALIFICATIONS:
 > Higher - Eastern Kazakhstan State University after S. Amanzholov, UstKamenogorsk
